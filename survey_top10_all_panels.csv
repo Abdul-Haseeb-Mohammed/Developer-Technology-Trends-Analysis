@@ -1,0 +1,81 @@
+Item,Count,Panel
+JavaScript,14943,Top 10 Languages Used
+SQL,12602,Top 10 Languages Used
+HTML/CSS,12410,Top 10 Languages Used
+TypeScript,10709,Top 10 Languages Used
+Python,9590,Top 10 Languages Used
+Bash/Shell (all shells),7244,Top 10 Languages Used
+C#,6340,Top 10 Languages Used
+Java,5982,Top 10 Languages Used
+PHP,4644,Top 10 Languages Used
+PowerShell,3438,Top 10 Languages Used
+PostgreSQL,11514,Top 10 Databases Used
+MySQL,8556,Top 10 Databases Used
+SQLite,7021,Top 10 Databases Used
+MongoDB,5930,Top 10 Databases Used
+Microsoft SQL Server,5870,Top 10 Databases Used
+Redis,5814,Top 10 Databases Used
+MariaDB,3994,Top 10 Databases Used
+Elasticsearch,3491,Top 10 Databases Used
+Dynamodb,2268,Top 10 Databases Used
+Oracle,1907,Top 10 Databases Used
+Amazon Web Services (AWS),10871,Top 10 Platforms Used
+Microsoft Azure,6681,Top 10 Platforms Used
+Google Cloud,5537,Top 10 Platforms Used
+Cloudflare,3874,Top 10 Platforms Used
+Digital Ocean,3170,Top 10 Platforms Used
+Firebase,3025,Top 10 Platforms Used
+Vercel,2875,Top 10 Platforms Used
+Heroku,2002,Top 10 Platforms Used
+Netlify,1662,Top 10 Platforms Used
+Hetzner,1392,Top 10 Platforms Used
+Node.js,9230,Top 10 Web Frameworks Used
+React,8999,Top 10 Web Frameworks Used
+jQuery,4810,Top 10 Web Frameworks Used
+Express,4408,Top 10 Web Frameworks Used
+Next.js,4399,Top 10 Web Frameworks Used
+ASP.NET CORE,4319,Top 10 Web Frameworks Used
+Angular,4038,Top 10 Web Frameworks Used
+Vue.js,3642,Top 10 Web Frameworks Used
+ASP.NET,3094,Top 10 Web Frameworks Used
+Spring Boot,2916,Top 10 Web Frameworks Used
+JavaScript,11541,Top 10 Languages Desired Next Year
+SQL,10944,Top 10 Languages Desired Next Year
+TypeScript,10437,Top 10 Languages Desired Next Year
+HTML/CSS,10016,Top 10 Languages Desired Next Year
+Python,8919,Top 10 Languages Desired Next Year
+Go,5661,Top 10 Languages Desired Next Year
+Rust,5597,Top 10 Languages Desired Next Year
+C#,5590,Top 10 Languages Desired Next Year
+Bash/Shell (all shells),5582,Top 10 Languages Desired Next Year
+Java,4048,Top 10 Languages Desired Next Year
+PostgreSQL,12193,Top 10 Databases Desired Next Year
+Redis,6384,Top 10 Databases Desired Next Year
+SQLite,6295,Top 10 Databases Desired Next Year
+MySQL,6204,Top 10 Databases Desired Next Year
+MongoDB,5618,Top 10 Databases Desired Next Year
+Microsoft SQL Server,4345,Top 10 Databases Desired Next Year
+Elasticsearch,3665,Top 10 Databases Desired Next Year
+MariaDB,3078,Top 10 Databases Desired Next Year
+Dynamodb,2154,Top 10 Databases Desired Next Year
+Supabase,1623,Top 10 Databases Desired Next Year
+Amazon Web Services (AWS),10516,Top 10 Desired Platforms
+Microsoft Azure,6380,Top 10 Desired Platforms
+Google Cloud,5431,Top 10 Desired Platforms
+Cloudflare,4219,Top 10 Desired Platforms
+Digital Ocean,2908,Top 10 Desired Platforms
+Vercel,2776,Top 10 Desired Platforms
+Firebase,2720,Top 10 Desired Platforms
+Hetzner,1577,Top 10 Desired Platforms
+Supabase,1368,Top 10 Desired Platforms
+Netlify,1267,Top 10 Desired Platforms
+React,8223,Top 10 Desired Web Frameworks
+Node.js,8096,Top 10 Desired Web Frameworks
+Next.js,4458,Top 10 Desired Web Frameworks
+ASP.NET CORE,4166,Top 10 Desired Web Frameworks
+Vue.js,3903,Top 10 Desired Web Frameworks
+Angular,3309,Top 10 Desired Web Frameworks
+Express,3216,Top 10 Desired Web Frameworks
+FastAPI,2823,Top 10 Desired Web Frameworks
+Spring Boot,2674,Top 10 Desired Web Frameworks
+Svelte,2559,Top 10 Desired Web Frameworks
