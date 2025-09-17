@@ -63,6 +63,12 @@ The dashboard is organized into three sections, each using a **2x2 rectangle lay
 
 ---
 
+## Dashboard Link
+You can view the interactive dashboard here:  
+👉 [Technology & Demographics Survey Dashboard](https://lookerstudio.google.com/reporting/e4624702-0d58-4c52-9bf6-943168a5ecf1)
+
+---
+
 ## Steps to Reproduce
 1. Run `prepare_survey_data.py` to generate summarized data for dashboard panels.  
 2. Run `Survey_data_country_standardized.py` to standardize country names for the Word Cloud.  
